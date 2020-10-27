@@ -40,6 +40,9 @@ Sometimes Assimp causes a compile-time error because of an environment variable,
 I found no other critical issues, but I can try to help if you find any.
 
 ## Credits
+I went through the FANTASTIC online tutorials [LearnOpenGL](learnopengl.com) written by [Joey de Vries](joeydevries.com). Check it out if you are interested in computer graphics as well!
+
+Also, I thank the following artists whose assets I used while making this project:
 - Car model: [*Low Poly American Muscle Car*](https://opengameart.org/content/low-poly-american-muscle-car) by **T Allen Studios** on OpenGameArt.Org
 - Skybox: [*clouds skybox 1*](https://opengameart.org/content/clouds-skybox-1) by **Luke.RUSTLTD** on OpenGameArt.Org
 - Asphalt texture: [*Black asphalt tilling 256px*](https://opengameart.org/content/black-asphalt-tilling-256px) by **Tiziana** on OpenGameArt.Org
