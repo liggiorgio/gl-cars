@@ -40,7 +40,7 @@ Sometimes Assimp causes a compile-time error because of an environment variable,
 I found no other critical issues, but I can try to help if you find any.
 
 ## Credits
-I went through the FANTASTIC online tutorials [LearnOpenGL](learnopengl.com) written by [Joey de Vries](joeydevries.com). Check it out if you are interested in computer graphics as well!
+I went through the FANTASTIC online tutorials [LearnOpenGL](https://learnopengl.com) written by [Joey de Vries](https://joeydevries.com). Check it out if you are interested in computer graphics as well!
 
 Also, I thank the following artists whose assets I used while making this project:
 - Car model: [*Low Poly American Muscle Car*](https://opengameart.org/content/low-poly-american-muscle-car) by **T Allen Studios** on OpenGameArt.Org
