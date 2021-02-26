@@ -4,10 +4,12 @@ This project consists of an application written in C/C++ and OpenGL (Fedora Linu
 
 This application was developed as a final project for the "Real Time Graphics Programming" course at the University of Milan. A detailed report document was delivered as well, and an adaptation can be found in the Wiki section of this repo.
 
+![Preview screenshot](https://github.com/liggiorgio/gl-cars/blob/master/wiki/main.png)
+
 ## How to use
 Before compiling and starting the application, you need to install some stuff:
 
-- OpenGL 3.3 or higher (I followed [this guide](https://en.wikibooks.org/wiki/OpenGL_Programming/Installation/Linux)
+- OpenGL 3.3 or higher (I followed [this guide](https://en.wikibooks.org/wiki/OpenGL_Programming/Installation/Linux))
 
 - GTK+ 3.24 for the additional GUI
 
